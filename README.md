@@ -1,4 +1,4 @@
-<h1>Hi, I'm Obi! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/hyginus-obi/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ObitechITSupport">YouTuber</a></h1>
+<h1>Hi, I'm Obi! <br/><a href="https://github.com/hyginusobi">Programmer</a>, <a href="https://www.linkedin.com/in/hyginus-obi/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ObitechITSupport">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
