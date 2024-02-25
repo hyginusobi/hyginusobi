@@ -1,4 +1,4 @@
-<h1>Hi, I'm Obi! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Obi! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/hyginus-obi/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@ObitechITSupport">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -30,9 +30,6 @@
 [youtube]: https://www.youtube.com/@ObitechITSupport
 [instagram]: https://www.instagram.com/o.b.i.io?igsh=czQ2dXlvenp6NWV6
 [linkedin]: https://www.linkedin.com/in/hyginus-obi
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
