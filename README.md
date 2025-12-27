@@ -1,7 +1,9 @@
 👋 Hi, I’m Hyginus — QA Engineer & Cybersecurity Professional
 I’m a detail‑driven Quality Assurance Engineer with a strong foundation in cybersecurity, IT support, and software testing. My background spans application support, secure test design, and automation, giving me a unique ability to test not just for functionality, but for security, resilience, and user safety.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 I specialise in manual testing, API validation, UI automation, and security‑aware QA practices aligned with OWASP and modern DevSecOps principles. I’ve worked across E‑commerce, FinTech, and Healthcare, with a growing focus on public‑sector digital transformation.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🔐 Cybersecurity Experience
 I bring a security‑first mindset into every testing workflow:
