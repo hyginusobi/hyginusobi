@@ -23,6 +23,7 @@ Understanding of identity, access control, and data protection principles
 Exposure to vulnerability scanning workflows and secure SDLC practices
 
 This blend of QA + Cyber makes me effective at identifying issues early, preventing defects, and improving product resilience.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🔍 What I Do
 Manual & exploratory testing
@@ -38,6 +39,7 @@ UI automation with Selenium (Python)
 Security‑aware QA practices
 
 CI/CD‑friendly test design
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🧪 Featured QA Projects
 🛒 CloudCart – E‑Commerce QA Project
@@ -47,6 +49,7 @@ CI/CD‑friendly test design
 🏥 HealthSync – Healthcare QA Project
 
 🔌 Plug & Play QA Framework – Automation + CI/CD + Security‑aware testing
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🛠 Tools & Technologies
 Selenium (Python)
@@ -64,6 +67,7 @@ SDLC & Agile fundamentals
 OWASP‑aligned testing awareness
 
 CI/CD (GitHub Actions)
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🌍 Open to Opportunities
 I’m actively seeking remote and UK‑based roles in:
