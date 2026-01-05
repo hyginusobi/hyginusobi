@@ -39,8 +39,6 @@ This blend of QA + Cyber makes me effective at identifying issues early, prevent
 |      Project      |    Domain     |       Highlights       |
 |-------------------|---------------|------------------------|
 | 🛒 **CloudCart** | E‑Commerce | Manual + exploratory testing |
-| 🏦 **FinGuard** | FinTech | API + UI test coverage |
-| 🏥 **HealthSync** | Healthcare | Accessibility + defect tracking |
 | 🔌 **Plug & Play QA Framework** | Public Sector | CI/CD + OWASP + WCAG + Selenium |
 
 ---
