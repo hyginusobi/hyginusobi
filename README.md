@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hyginus — QA Engineer & Cybersecurity Professional
+# 👋 Hi, I’m Hyginus — Cybersecurity Professional & QA Engineer
 
 I’m a detail‑driven Quality Assurance Engineer with a strong foundation in **cybersecurity**, **IT support**, and **software testing**. My background spans **application support**, **secure test design**, and **automation**, giving me a unique ability to test not just for functionality, but for **security, resilience, and user safety**.
 
