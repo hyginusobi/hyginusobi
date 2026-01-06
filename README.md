@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hyginus — Microsoft 365, Endpoint & Security-Focused IT Professional
+# 👋 Hi, I’m Hyginus Obi — Microsoft 365, Endpoint & Security-Focused IT Professional
 
 I’m an IT professional with a strong focus on **Microsoft 365 security**, **Cyber Essentials readiness**, and **Microsoft Intune endpoint management**, with additional experience in **software testing and quality assurance**.
 
@@ -100,5 +100,5 @@ I’m particularly motivated by roles where **security, compliance, and reliable
 
 ---
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/hyginusobi)  
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/hyginus-obi/)  
 💼 View my practical portfolio on [GitHub](https://github.com/hyginusobi)
