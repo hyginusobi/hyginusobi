@@ -1,84 +1,104 @@
-# 👋 Hi, I’m Hyginus — Cybersecurity Professional & QA Engineer
+# 👋 Hi, I’m Hyginus — Microsoft 365, Endpoint & Security-Focused IT Professional
 
-I’m a detail‑driven Quality Assurance Engineer with a strong foundation in **cybersecurity**, **IT support**, and **software testing**. My background spans **application support**, **secure test design**, and **automation**, giving me a unique ability to test not just for functionality, but for **security, resilience, and user safety**.
+I’m an IT professional with a strong focus on **Microsoft 365 security**, **Cyber Essentials readiness**, and **Microsoft Intune endpoint management**, with additional experience in **software testing and quality assurance**.
 
-I specialise in **manual testing**, **API validation**, **UI automation**, and **security‑aware QA practices** aligned with OWASP and modern DevSecOps principles. I’ve worked across **E‑commerce**, **FinTech**, and **Healthcare**, with a growing focus on **public‑sector digital transformation**.
-
----
-
-## 🔐 Cybersecurity Experience
-
-I bring a security‑first mindset into every testing workflow:
-
-- 🛡️ Security‑aware test design aligned with **OWASP Top 10**
-- 🔍 API security validation (auth, input validation, error handling)
-- 🧠 Basic threat modelling for QA scenarios
-- 🧰 Secure configuration checks and environment hardening awareness
-- 🖥️ Experience supporting secure systems in IT & application support roles
-- 🔐 Understanding of identity, access control, and data protection principles
-- 🧪 Exposure to vulnerability scanning workflows and secure SDLC practices
-
-This blend of QA + Cyber makes me effective at identifying issues early, preventing defects, and improving product resilience.
+My core strength is combining **secure configuration**, **compliance awareness**, and **reliable IT service delivery** with a structured, testing-led mindset. This allows me to document, assess, and support systems that are not only functional, but **secure, auditable, and user-safe** — particularly in **public-sector and regulated environments**.
 
 ---
 
-## 🔍 What I Do
+## 🔐 Core Focus Areas
 
-- 🧪 Manual & exploratory testing  
-- 📝 Test case design & execution (Excel / TestRail‑style workflows)  
-- 🐞 Bug reporting & defect lifecycle management  
-- 🔗 API testing with Postman  
-- 🤖 UI automation with Selenium (Python)  
-- 🔐 Security‑aware QA practices  
-- ⚙️ CI/CD‑friendly test design  
+### Microsoft 365 Security & Compliance
+- Identity and access control (MFA, Conditional Access, admin roles)
+- Email security, endpoint protection, and audit logging
+- Security baselines aligned with Cyber Essentials principles
+- Audit-ready documentation and safe evidence handling
+
+### Cyber Essentials Readiness
+- Control-by-control mapping aligned with NCSC guidance
+- Structured gap analysis and remediation tracking
+- Evidence preparation for assessments and audits
+- Compliance-focused security thinking (not just tooling)
+
+### Microsoft Intune Endpoint Management
+- Secure device enrolment and onboarding concepts
+- Compliance policies and posture-based access
+- Configuration profiles and baseline enforcement
+- Application deployment and lifecycle management
+- Structured troubleshooting and incident handling
+
+📌 See pinned repositories for practical, documented examples.
 
 ---
 
-## 🧪 Featured QA Projects
+## 🧪 Added Strength: Testing & Quality Assurance
 
-|      Project      |    Domain     |       Highlights       |
-|-------------------|---------------|------------------------|
-| 🛒 **CloudCart** | E‑Commerce | Manual + exploratory testing |
-| 🔌 **Plug & Play QA Framework** | Public Sector | CI/CD + OWASP + WCAG + Selenium |
+Alongside my core IT and security focus, I bring a **testing and QA background** that strengthens how I approach systems and services:
+
+- Manual and exploratory testing mindset
+- API validation and basic automation exposure
+- Clear test case design and defect documentation
+- Security-aware testing aligned with OWASP principles
+- Strong documentation and evidence-driven thinking
+
+This background helps me:
+- Identify issues early
+- Reduce configuration and deployment errors
+- Improve system reliability and user experience
 
 ---
 
-## 🛡️ Featured Cybersecurity Projects
+## 📂 Featured Portfolio Repositories
 
-| Project | Focus Area | Description |
-|--------|------------|-------------|
-| 🧠 **Malware Detection System** | Threat Classification | ML-based detection of malicious Windows executables |
-| 📊 **Logs Threat Detection STEM** | Insider Threats | Behavioral analysis using CERT Insider Threat Dataset |
-| 🧭 **CLMS Threat Monitoring** | Log Management | Lightweight threat monitoring using UNSW-NB15 dataset |
+- 🔐 **Microsoft 365 Security Baseline**  
+  Secure configuration of identity, email, endpoint and audit controls
 
-> 🔗 Explore all projects on my [GitHub profile](https://github.com/hyginusobi)
+- 📋 **Cyber Essentials Readiness**  
+  Control mapping, gap analysis and evidence preparation aligned with NCSC
+
+- 💻 **Intune Endpoint Management**  
+  Device enrolment, compliance, configuration, application deployment and troubleshooting
 
 ---
 
 ## 🛠 Tools & Technologies
 
-| Category | Tools |
-|---------|-------|
-| 🧪 Testing | Selenium (Python), Postman, PyTest |
-| 🔐 Security | OWASP Top 10, CERT, UNSW-NB15 |
-| ⚙️ DevOps | GitHub Actions, Git |
-| 📊 Documentation | Excel, Markdown, Test Plans |
-| 📚 Methodologies | SDLC, Agile, DevSecOps |
+**Platforms & Services**
+- Microsoft 365
+- Microsoft Intune
+- Azure / Entra ID (conceptual and lab-based)
+
+**Security & Compliance**
+- Cyber Essentials principles
+- Identity & access control
+- Endpoint protection concepts
+- Audit and governance documentation
+
+**Testing & QA (Supporting Skillset)**
+- Selenium (Python)
+- Postman
+- Manual & exploratory testing
+- Test documentation and defect management
+
+**Ways of Working**
+- ITIL-aligned incident and change thinking
+- SDLC / Agile awareness
+- Clear technical documentation (Markdown)
 
 ---
 
 ## 🌍 Open to Opportunities
 
-I’m actively seeking **remote** and **UK‑based** roles in:
+I’m interested in **UK-based and remote roles** within:
 
-- ✅ QA / Software Testing  
-- ✅ Security‑aware QA  
-- ✅ Test Automation (junior–intermediate)  
-- ✅ Application Support / Technical Support  
+- IT Technical Services / EUC
+- Microsoft 365 & Intune administration
+- Security-aware IT support
+- Public-sector and regulated environments
 
-I’m passionate about building **secure**, **reliable**, **user‑focused systems** — and I’m always open to collaborating on impactful projects.
+I’m particularly motivated by roles where **security, compliance, and reliable service delivery** matter as much as technology.
 
 ---
 
-> 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/hyginusobi)  
-> 💼 View my portfolio and frameworks on [GitHub](https://github.com/hyginusobi)
+📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/hyginusobi)  
+💼 View my practical portfolio on [GitHub](https://github.com/hyginusobi)
